@@ -1,11 +1,13 @@
 # Unity
 
 
-1) Basic 2D-shooter (no mouse)
-  Features:   A* pathfinding (works only with _Tilemap tilemap_ tiles)<br>
-              Enemy movement switches from roaming to follow and attack (straight movement and pathfinding)<br>
-              Hearing zone for the enemy <br>
-              Bullets bouncing off walls<br>
+1) Basic 2D-shooter (no mouse)<br><br>
+  Features:<br>
+  A* pathfinding (works only with _Tilemap tilemap_ tiles)<br>
+  Enemy movement switches from roaming to follow and attack (straight movement and pathfinding)<br>
+  Hearing zone for the enemy <br>
+  Bullets bouncing off walls<br>
+  _____________________________________________________<br>
   Keys: WASD, Space - shoot, arrows - rotate<br>
   _____________________________________________________<br>
   Needs fix: body tries to go through adjacent corners<br>
