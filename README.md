@@ -17,11 +17,12 @@
   https://www.youtube.com/watch?v=waEsGu--9P8&t=0s<br>
   ------------------------------------------<br>
   Download Link: https://drive.google.com/file/d/1bVtblygYoJIygS3K_wz3QlfzJZgissZE/view?usp=sharing<br>
-  Result:<br>
- ![image](https://user-images.githubusercontent.com/56946686/168451067-f3f4cbc8-a4e5-4066-9510-1afac349ca3a.png)
-  v2.0--------------------------------------<br>
+  -----------v2.0 Work in progress----------<br>
   An upgraded version with several enemy prefabs and a better pathfinding algorithm (work in progress) <br>
   Download Link: https://drive.google.com/file/d/1D4ujiBaIvRfUWMM-oZo_oGpUKYdYRFGO/view?usp=sharing  <br>
   ------------------------------------------<br>
+  Result:<br>
+ ![image](https://user-images.githubusercontent.com/56946686/168451067-f3f4cbc8-a4e5-4066-9510-1afac349ca3a.png)
+ 
 
 
